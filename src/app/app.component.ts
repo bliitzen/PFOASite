@@ -10,7 +10,7 @@ import { filter, map, shareReplay, switchMap } from 'rxjs/operators';
 })
 
 export class AppComponent {
-  title = 'PFOA/PFOS';
+  title = 'FPOA/FPAS';
 
   @ViewChild('drawer') drawer: any;
 
